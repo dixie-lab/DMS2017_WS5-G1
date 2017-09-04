@@ -21,6 +21,8 @@
 - Master_Files : use for the final merged project between all teams. WARNING = modification and add in this location need to be manage by Dixie Team, a turn by turn upload for each group will be set up. Please don't add anything into this folder without the Dixie Team authorization.
 - Team_Files : use for each teams to store your own files.
 
+- Map : copy paste other teams assets from Master_Map in your Team_Map, copy paste your team assets from your Team_Map to your team folder in the Master_Map.
+
 IMPORTANT : a file can be access only by one user at the same time.
 We will show you the basics on how to proceed inside Unreal for exchanges and simple workflow.
 
