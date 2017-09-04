@@ -18,7 +18,11 @@
 - Right click on folder or file in Content Browser, History and Diff Against Depot to check changes
 
 ## Workflow
-- 
+- Master_Files : use for the final all merged project between all teams. WARNING = modification and add in this location need to be manage by Dixie Team, and a turn by turn upload for each group will be set up. Please don't push anything without the Dixie Team authorization.
+- Team_Files : use for each teams to store your own files.
+
+IMPORTANT : a file can be access only by one user at the same time.
+We will show you the basics on how to proceed inside Unreal for exchanges and simple workflow.
 
 
 ### Documentation
